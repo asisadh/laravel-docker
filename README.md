@@ -1,4 +1,4 @@
-Brief info: This project hovers over the concept of a apartment booking system.
+Brief info: This project provides a docker system for any laravel projects.
 
 
 [Docker Cheats]
