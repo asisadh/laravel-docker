@@ -4,7 +4,7 @@ networks:
   laravel:
 
 services:
-  roopa:
+  site:
     build:
       context: .
       dockerfile: nginx.dockerfile
